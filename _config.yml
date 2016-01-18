@@ -1,0 +1,28 @@
+name: BobbiKlein
+favicon: null
+layout_spectrum: 0.904715487267822
+typography_spectrum: 0.9049074267968535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6219997068401426
+  lightness: 0.9490140927955508
+  saturation: 0.344110973412171
+  rhythmicContrast: 0.021314286394044757
+purpose: []
