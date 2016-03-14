@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BobbiKlein]]></title>
         <description><![CDATA[BobbiKlein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bobbiklein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 17:28:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 18:12:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bobbiklein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a53eb78-9f37-46d1-9e0b-481993b7a77f.jpg">]]></description>
+            <link>https://thegrid.ai/bobbiklein/4be48bf5-b57e-4308-95fa-1d19b6b33ac0/index.html</link>
+            <guid isPermaLink="false">4be48bf5-b57e-4308-95fa-1d19b6b33ac0</guid>
+            <pubDate>Mon, 14 Mar 2016 18:12:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fd9679b-1db2-4c94-b8f6-3ae07711211d.jpg">]]></description>
-            <link>undefined81c59538-8397-4b10-806e-8169318c3545/index.html</link>
+            <link>https://thegrid.ai/bobbiklein/81c59538-8397-4b10-806e-8169318c3545/index.html</link>
             <guid isPermaLink="false">81c59538-8397-4b10-806e-8169318c3545</guid>
             <pubDate>Mon, 18 Jan 2016 17:28:32 GMT</pubDate>
         </item>
